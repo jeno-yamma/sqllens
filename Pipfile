@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlparse = "*"
+streamlit = "*"
+snowflake-connector-python = "==2.7.9"
+pyarrow = "<6.1.0,>=6.0.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8.12"
