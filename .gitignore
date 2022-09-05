@@ -2,3 +2,4 @@ secret/
 Pipfile.lock
 data/
 *.pyc
+*.sql
